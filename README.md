@@ -43,4 +43,3 @@ The distance metrics used are:
         ```
 
 **Note**: Both scripts expect the Java source code to be in a single file named `all_test_files_combined.txt`, with each test file separated by the delimiter line `================================================================================`.
-
